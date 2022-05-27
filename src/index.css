@@ -5,13 +5,14 @@
 
     /* --gradient-text: linear-gradient(89.97deg, #8769F3, #7E21C8); */
 
-    --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 55.67%);
+    --gradient-text: linear-gradient(89.97deg, #3D267B 1.84%, #E83D5E 70.67%);
     --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
   
     --color-bg: #FFFFFF;
-    --color-footer : #031B34;
+    /* --color-footer : #8769F3;*/
+    --color-footer : #E5E8F8;
     --color-blog: #042c54;
-    --color-text: #81AFDD;
-    --color-subtext: #FF8A71;
+    --color-text: rgb(109, 80, 213);
+    --color-subtext: #E83D5E;
 }
 

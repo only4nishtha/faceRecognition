@@ -1,7 +1,7 @@
 import React, {useState} from 'react' ;
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri'
 import './navbar.css';
-import logo from '../../assets/2.png';
+import logo from '../../assets/mirror.png';
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
@@ -20,15 +20,15 @@ const Navbar = () => {
       </div>
       <div className='mirror__navbar-menu'>
         {toggleMenu
-          ? <RiCloseLine color="#fff" size={27} onClick={() => setToggleMenu(false)} />
-          : <RiMenu3Line color="#fff" size={27} onClick={() => setToggleMenu(true)} />
+          ? <RiCloseLine color="#000" size={27} onClick={() => setToggleMenu(false)} />
+          : <RiMenu3Line color="#000" size={27} onClick={() => setToggleMenu(true)} />
         }
         {toggleMenu && (
           <div className='mirror__navbar-menu_container scale-up-center'>
             <div className='mirror__navbar-menu_container-links'>
-            <p><i class="fa-solid fa-gear"></i><a href="#home"></a></p>
-            <p><i class="fa-solid fa-grip"></i><a href="#mirror"></a></p>
-            <p><i class="fa-solid fa-user"></i><a href="#article"></a></p>
+            <p><i class="fa-solid fa-gear mobile_icons"></i><a href="#home"></a></p>
+            <p><i class="fa-solid fa-grip mobile_icons"></i><a href="#mirror"></a></p>
+            <p><i class="fa-solid fa-user mobile_icons"></i><a href="#article"></a></p>
             <div className='mirror__navbar-menu_container-links-sign'></div>
             </div>
           </div>

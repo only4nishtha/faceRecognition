@@ -1,0 +1,213 @@
+.mirror__header {
+    display: flex;
+    flex-direction: row;
+    margin: 0rem 2rem;
+}
+
+.mirror__header-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+
+    margin-right: 5rem;
+}
+
+.mirror__header-content h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+}
+
+.mirror__header-content p {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: var(--color-text);
+
+    margin-top: 1.5rem;
+}
+
+.mirror__header-content__input {
+    width: 100%;
+    margin: 2rem 0 1rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.mirror__header-content__input input {
+    flex: 2;
+    width: 100%;
+    min-height: 50px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    background: var(--color-footer);
+    border: 2px solid var(--color-footer);
+    padding: 0 1rem;
+    outline: none;
+    color: #fff;
+
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.mirror__header-content__input button {
+    flex: 0.6;
+    width: 100%;
+    min-height: 50px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    background: #E83D5E;
+    border: 2px solid #E83D5E;
+    padding: 0 1rem;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.mirror__header-content__people {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+
+    margin-top: 2rem;
+}
+
+.mirror__header-content__people img {
+    width: 181.79px;
+    height: 38px;}
+
+.mirror__header-content__people p {
+    margin: 0 0 0 1rem;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 38px;
+    color: #000;
+    text-align: center;
+}
+
+.mirror__header-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mirror__header-image img {
+    width: 100%;
+    height: 100%;
+    /* padding: 5rem;
+    margin-top: 10rem;
+    margin-left: 20rem; */
+}
+
+.mirror__ultimate {
+    /* align-items: flex-end;
+    margin-left: -30rem; */
+    /* display: none; */
+    position: fixed;
+    bottom: 4rem;
+    right: 4rem;
+}
+
+@media screen and (max-width: 1050px) {
+    .mirror__header {
+        flex-direction: column;
+        margin: 0 2rem;
+    }
+
+    .mirror__header-content {
+        margin-right: 0rem;
+    }
+
+    .mirror__header-image img {
+        width: 600%;
+        height: 600%;
+        margin-top: 0;
+        margin-left: 5rem;
+    }
+
+    .mirror__ultimate {
+        align-items: flex-end;
+        position: static;
+        margin-left: 5rem;
+        margin-top: 0%;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .mirror__header {
+        margin: -4rem 0.25rem;
+    }
+    
+    .mirror__header-content h1 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+
+    .mirror__header-content p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    
+    .mirror__header-content__people {
+        flex-direction: column;
+    }
+
+    .mirror__header-content__people p {
+        margin: 0;
+    }
+
+    .mirror__header-content__input input,
+    .mirror__header-content__input button {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .mirror__header-image img {
+        width: 120%;
+        height: 120%;
+        margin-top: 0rem;
+        margin-left: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .mirror__header-content h1 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+
+    .mirror__header-content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .mirror__header-content__input input,
+    .mirror__header-content__input button {
+        font-size: 12px;
+        line-height: 16px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .mirror__ultimate {
+        align-items: flex-end;
+        margin-left: 2rem;
+    }
+}
