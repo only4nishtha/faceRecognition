@@ -7,7 +7,7 @@
 
 body {
     background: var(--color-bg);
-    /* background-size: cover; */
+    background-size: cover;
     height: max-content;
     white-space: 0;
 }
@@ -23,8 +23,6 @@ a {
     background:-o-radial-gradient(circle at 0% 0%, #F092FF 0%, #E5B4ED 14%, #FDEDFF 45%, #FFFFFFFA 100%);
     background:-ms-radial-gradient(circle at 0% 0%, #F092FF 0%, #E5B4ED 14%, #FDEDFF 45%, #FFFFFFFA 100%);
     background:radial-gradient(circle at 0% 0%, #F092FF 0%, #E5B4ED 14%, #FDEDFF 45%, #FFFFFFFA 100%);
-    /* height: max-content; */
-    background-size: cover;
 }
 
 .gradient__text {

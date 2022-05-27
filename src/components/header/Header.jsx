@@ -3,8 +3,8 @@ import './header.css';
 import vector from '../../assets/vector.png';
 import people from '../../assets/people.png';
 import ultimate from '../../assets/ultimate.png';
-import { Recognize } from '../../container/recognize/Recognize';
-// import { useHistory } from "react-router-dom";
+// import { Scan } from './scan/Scan';
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
@@ -14,7 +14,7 @@ const Header = () => {
         <p>Facial recognition technology has the potential to help conduct faster identity verification of service providers who enter your household and, therbey help resolve, stop and pevent crimes.</p>
         <div className='mirror__header-content__input'>
           <input type="text" placeholder='Microsoft Engage 2022' readonly="readonly" />
-          <button onClick={Recognize} type='button'>Start Mirroring</button>
+          <Link to="/scan"><button type='button'>Start Mirroring</button></Link>
         </div>
         <div className='mirror__header-content__people'>
           <img src={people} alt="people"/>
