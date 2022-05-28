@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    white-space: 0;
+}
+
+body {
+    background: var(--color-bg);
+    background-size: cover;
+    height: max-content;
+    white-space: 0;
+}

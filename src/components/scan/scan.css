@@ -38,6 +38,14 @@
     cursor: pointer;
     font-family: cursive;
   }
+
+  .logo {
+    margin-right: 2rem;
+}
+
+.logo img {
+   height: 100%;
+}
   
   .card:hover {
     color: rgb(109, 80, 213);
