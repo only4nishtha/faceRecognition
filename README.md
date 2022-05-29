@@ -24,10 +24,10 @@ Mirror is an attempt to control daily crimes by verifying the identity of people
 - [Built With](#built-with)
 - [Installation](#installation)
 - [Usage of Agile Methodology](#usage-of-agile-methodology)
+- [Navigation through the Application](#navigating-through-the-application)
 - [Challenges Faced](#challenges-faced)
 - [Future Scope](#future-scope)
 - [Bug Log](#bug-log)
-- [Navigation through the Application](#navigating-through-the-application)
 - [Resources Used](#resources-used)
 - [Support and Contact](#support-and-contact)
 
@@ -145,12 +145,23 @@ To cater to the assignments provided by the AceHacker platform and also undertak
 
 <center><img src="Images\assignments.png" alt="Assignments" /></center>
 
+[(Back to top)](#table-of-contents)
+
+# Navigating Through The Application
+
+1. Go to the home page and click the button of "Start Mirroring".
+2. You will be redirected to another page. Allow access to camera and in a short time you will see your live video. Click on the button "Mirror it".
+3. In a few seconds, the app will give you the answer in form of your name or "Nobody".
+
+<img src="Images\known-face.png" alt="known-face"/>
+
+<img src="Images\stranger.png" alt="stranger"/>
 
 [(Back to top)](#table-of-contents)
 
 # Challenges Faced
 
-"If you are not facing challenges while developing an application, you are not considering every possible case for a better experience of your users."
+"If one is not facing any hardships while developing an application, one isn't considering every possible case for user's better experience."
 
 During the development process I faced the following challenges: 
 1. Understanding the working of the ML model and backend side of my application as I had never worked with Python as well as backend before. However, thanks to online communities, stackoverflow, my mentor and friends I was able to find resources which helped me in creating this web application. 
@@ -181,18 +192,6 @@ Following are the known bugs of the web application:
 1. The application is accepting only one face's recognition currently after connecting it with Flask, though the OpenCV code alone was working fine for multiple personalities.
 2. The UI of the web app can be improved and made professional and in accordance with the idea of this application. 
 3. No permanent database for collecting record of scanned faces is available.
-
-[(Back to top)](#table-of-contents)
-
-# Navigating Through The Application
-
-1. Go to the home page and click the button of "Start Mirroring".
-2. You will be redirected to another page. Allow access to camera and in a short time you will see your live video. Click on the button "Mirror it".
-3. In a few seconds, the app will give you the answer in form of your name or "Nobody".
-
-<img src="Images\known-face.png" alt="known-face"/>
-
-<img src="Images\stranger.png" alt="stranger"/>
 
 [(Back to top)](#table-of-contents)
 
