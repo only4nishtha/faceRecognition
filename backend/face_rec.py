@@ -48,6 +48,4 @@ class FaceRec:
                     
                     return name
 
-#You can add as much people as you wish
-Elon_Musk = FaceRec('./known-people/Elon Musk.jpg', './stranger', 'Elon Musk')
 Nishtha = FaceRec('./known-people/Nishtha.jpg', './stranger', 'Nishtha')

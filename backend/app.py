@@ -1,7 +1,7 @@
 from flask import Flask, request
 from flask_cors import CORS
 import json
-from face_rec import Elon_Musk, Nishtha
+from face_rec import Nishtha
 from PIL import Image
 import base64
 import io
@@ -15,7 +15,7 @@ CORS(app)
 @app.route('/api', methods=['POST', 'GET'])
 def api():
 	data = request.get_json()
-	resp = 'Nobody'
+	resp = 'Unknown'
 	directory = './stranger'
 	if data:
 		if os.path.exists(directory):
@@ -31,16 +31,15 @@ def api():
 				im = Image.open(io.BytesIO(base64.b64decode(image)))
 				im.save(directory+'/stranger.jpeg')
 
-				if(Elon_Musk.recognize_faces() == 'Elon Musk'):
-					resp = 'Elon Musk'
-                # elif(Nishtha.recognize_faces() == 'Nishtha'):
-                #     resp = 'Nishtha'
+				if(Nishtha.recognize_faces() == 'Nishtha'):
+					resp = 'Nishtha'
 				else:
-					resp = 'Nobody'
+					resp = 'Unknown'
 			except:
 				pass
 	return resp
 
 if __name__ == "__main__":
-	app.run(debug=True)
+	# app.debug = True
+	app.run(debug = True)
 
