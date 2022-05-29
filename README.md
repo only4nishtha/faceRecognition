@@ -3,7 +3,8 @@
  
 <!--  <a target="_blank" href="#">Link to the App</a>
     | -->
- <a target="_blank" href="https://youtu.be/Mtkn83_NiPs"><img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="youtube-icon" width="30px" />Video Demo</a>
+ <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="youtube-icon" width="30px" />
+ <a target="_blank" href="https://youtu.be/Mtkn83_NiPs">Video Demo</a>
 </p>
 
 <img src="Images\banner.png" alt="banner" width="1000"/>
