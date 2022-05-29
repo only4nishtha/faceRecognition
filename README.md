@@ -121,7 +121,7 @@ I used Trello as my primary application for designing the timeline of my work.
 <center><img src="Images\trello.png" alt="trello borad" width="700"/></center>
 
 <br>
-I divided my entire development process into <b>4 sprints (each having the duration of 1 week)</b> as shown in the images below. I gave due importance to the bug review and fixing part of the development process as it is crucial to offer whatever features you are offering are offered with utmost perfection. 
+I divided my entire development process into <b>4 sprints (each having the duration of 1 week)</b> as shown in the images below. 
 <br>
 
 <center><img src="Images\sprint1.png" alt="sprint 1"/></center>
