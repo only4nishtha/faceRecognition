@@ -5,9 +5,7 @@
  <a target="_blank" href="(https://youtu.be/Mtkn83_NiPs)">Video Demo</a>
 </p>
 
-<!-- Add banner here -->
-![Project Banner]
-<img src="Images\banner.png" alt="banner" width="700"/>
+<img src="Images\banner.png" alt="banner" width="1000"/>
 
 Mirror is an attempt to control daily crimes by verifying the identity of people who enter our households. This project was built as a part of the Microsoft Engage Program 2022 where mentees had to build a project on one of the three given challenges while incorporating the agile methodology. I went for the Face Recognition Project and came up with the idea of Mirror web application that'll help <u>Prevent Crimes</u>.
 
@@ -16,10 +14,6 @@ Mirror is an attempt to control daily crimes by verifying the identity of people
 <b>Solved Problem:</b> This web application aims to offer a quick and easy way to recognise and verify the identity of employees who visit our places regularly to take readings of water, electricity, LPG meters; AC and RO servicing; etc. Many thefts happen day-to-day due to miscellaneous person entering our premises which can be prevented by double-checking the identity just by a click. 
 
 <b>Learnings:</b> Through the Microsoft Engage Mentorship Program 2022 under the able guidance of my mentor - Shriladha Balasubramanian ma'am I was able to go from a person who just knew how to make static web pages to a person who can build and deploy a full stack web applications based on ML. 
-
-<img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="youtube-icon" width="50px"> 
-
-[Watch the Demo on YouTube (To be Added)](#)
 
 # Table of contents
 
@@ -107,6 +101,8 @@ npm start
 
 # Usage of Agile Methodology
 
+<img src="Images\agile.png" alt="agile methodology" align="center"/>
+
 After attending the AMA session and discussing with my mentor, I understood how modern softwares are developed and how agile methodologies are applied in Microsoft to deliver great products. Now I understood the importance of incorporating Agile Methodology into my project. 
 
 Since wasn't a team project, I had to handle evrything single-handedly. Therefore I divided myself into six different people - one for research, one for design, one for developing the frontend of the web application, one for the backend, one for incorporating the ML model and finally the one for fixing bugs. This division helped me to get into a zone and focus on a particular functionality whenever I was working on the project. 
@@ -117,32 +113,32 @@ I used Trello as my primary application for designing the timeline of my work.
 
 * <b>Using Trello for managing sprints</b>
 
-![Trello Sprint Board]<img src="Images\trello.png" alt="trello borad" width="700"/>
+<img src="Images\trello.png" alt="trello borad" width="800" align="center"/>
 
 <br>
 I divided my entire development process into <b>4 sprints (each having the duration of 1 week)</b> as shown in the images below. I gave due importance to the bug review and fixing part of the development process as it is crucial to offer whatever features you are offering are offered with utmost perfection. 
 <br>
 
-![Sprint 1]<img src="Images\sprint1.png" alt="sprint 1"/>
+<img src="Images\sprint1.png" alt="sprint 1" align="center"/>
 
 <br>
 
-![Sprint 2]<img src="Images\sprint2.png" alt="sprint 2"/>
+<img src="Images\sprint2.png" alt="sprint 2" align="center"/>
 
 <br>
 
-![Sprint 3]<img src="Images\sprint3.png" alt="sprint 3"/>
+<img src="Images\sprint3.png" alt="sprint 3" align="center"/>
 
 <br>
 
-![Sprint 4]<img src="Images\sprint4.png" alt="sprint 4"/>
+<img src="Images\sprint4.png" alt="sprint 4" align="center"/>
 
 <br>
 * <b>Adjusting AceHacker Assignments</b>
 To cater to the assignments provided by the AceHacker platform and also undertake the suggestions provided by the mentor, I made a separate card where I put these assignments and made sure I was completing them alongside my ongoing sprints and college's end term exams. 
 <br>
 
-![Assignments]<img src="Images\assignments.png" alt="Assignments"/>
+<img src="Images\assignments.png" alt="Assignments" align="center"/>
 
 
 [(Back to top)](#table-of-contents)
