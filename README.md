@@ -20,7 +20,7 @@ Mirror is an attempt to control daily crimes by verifying the identity of people
 # Table of contents
 
 - [Features of the Application](#features-of-the-application)
-- [Compatible Platforms](#coompatible-platforms)
+- [Compatible Platforms](#compatible-platforms)
 - [Built With](#built-with)
 - [Installation](#installation)
 - [Usage of Agile Methodology](#usage-of-agile-methodology)
@@ -41,7 +41,7 @@ Mirror is an attempt to control daily crimes by verifying the identity of people
 
 [(Back to top)](#table-of-contents)
 
-# Compatible Platforms
+# Compatible Platforms(#compatible-platforms)
 Laptops, Desktops, Tablet PCs and Mobiles- this web application is responsive with all devices.
 
 <center><img src="Images\responsive.png" alt="banner" width="700"/></center>
@@ -193,7 +193,7 @@ Following are the known bugs of the web application:
 * [ReactJS frontend](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)
 * [Deploying Code](https://www.youtube.com/watch?v=XHayJTMQdkA)
 
-# Support and Contact (#support-and-contact) 
+# Support and Contact
 
 Email To: only4nishtha@gmail.com
 
