@@ -11,7 +11,7 @@
 
 Mirror is an attempt to control daily crimes by verifying the identity of people who enter our households. This project was built as a part of the Microsoft Engage Program 2022 where mentees had to build a project on one of the three given challenges while incorporating the agile methodology. I went for the Face Recognition Project and came up with the idea of Mirror web application that'll help <u>Prevent Crimes</u>.
 
-<b>Motivation:</b> 
+<b>Motivation:</b> While the world has crumbled down because of the pandemic and people are suffereing financially, mentally, physically and socially, this app can help lower the amount od thefts and raise alertess among the public.
 
 <b>Solved Problem:</b> This web application aims to offer a quick and easy way to recognise and verify the identity of employees who visit our places regularly to take readings of water, electricity, LPG meters; AC and RO servicing; etc. Many thefts happen day-to-day due to miscellaneous person entering our premises which can be prevented by double-checking the identity just by a click. 
 
