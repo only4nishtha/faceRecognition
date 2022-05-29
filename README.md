@@ -1,9 +1,9 @@
 <h1 align="center">Mirror- Face Recognition Project by Nishtha Agarwal</h1> 
 <p align="center">
- <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="youtube-icon" width="30px" />
+ 
 <!--  <a target="_blank" href="#">Link to the App</a>
     | -->
- <a target="_blank" href="https://youtu.be/Mtkn83_NiPs">Video Demo</a>
+ <a target="_blank" href="https://youtu.be/Mtkn83_NiPs"><img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="youtube-icon" width="30px" />Video Demo</a>
 </p>
 
 <img src="Images\banner.png" alt="banner" width="1000"/>
@@ -57,6 +57,9 @@ For frontend development, I have used <b>ReactJS</b>, a popular JavaScript libra
 
 The design of this application is designed on Figma along with editing on Canva and reference from Dribble. The primary font of the application is Manrope, sans-serif.
 
+<img src="Images\known-face.png" alt="known-face"/>
+<img src="Images\stranger.png" alt="stranger"/>
+
 [(Back to top)](#table-of-contents)
 
 # Installation 
@@ -103,7 +106,7 @@ npm start
 
 # Usage of Agile Methodology
 
-<center><img src="Images\agile.png" alt="agile methodology"/></center>
+<center><img src="Images\agile.png" alt="agile methodology" width="700"/></center>
 
 After attending the AMA session and discussing with my mentor, I understood how modern softwares are developed and how agile methodologies are applied in Microsoft to deliver great products. Now I understood the importance of incorporating Agile Methodology into my project. 
 
@@ -189,7 +192,11 @@ Following are the known bugs of the web application:
 * [ReactJS frontend](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)
 * [Deploying Code](https://www.youtube.com/watch?v=XHayJTMQdkA)
 
+# Support and Contact (#support-and-contact) 
 
+Email To: only4nishtha@gmail.com
+
+[(Back to top)](#table-of-contents)
 
 
 <!--MARKDOWN LINKS-->
