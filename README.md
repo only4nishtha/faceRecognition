@@ -41,7 +41,7 @@ Mirror is an attempt to control daily crimes by verifying the identity of people
 
 [(Back to top)](#table-of-contents)
 
-# Compatible Platforms(#compatible-platforms)
+# Compatible Platforms
 Laptops, Desktops, Tablet PCs and Mobiles- this web application is responsive with all devices.
 
 <center><img src="Images\responsive.png" alt="banner" width="700"/></center>
@@ -57,9 +57,6 @@ In spite of all the smart devices that exist today in the world, one thing that 
 For frontend development, I have used <b>ReactJS</b>, a popular JavaScript library for building user interfaces based on UI components. For backend development, I have used <b>Flask</b>, a Python web framework. For ML model, I have used OpenCV- Python.
 
 The design of this application is designed on Figma along with editing on Canva and reference from Dribble. The primary font of the application is Manrope, sans-serif.
-
-<img src="Images\known-face.png" alt="known-face"/>
-<img src="Images\stranger.png" alt="stranger"/>
 
 [(Back to top)](#table-of-contents)
 
@@ -104,6 +101,8 @@ npm start
 <!-- Please note: To run the machine on localhost:3000 you will have to edit the following lines of code: 
 
 ........(TO BE DONE) -->
+
+[(Back to top)](#table-of-contents)
 
 # Usage of Agile Methodology
 
@@ -185,11 +184,23 @@ Following are the known bugs of the web application:
 
 [(Back to top)](#table-of-contents)
 
+# Navigating Through The Application
+
+1. Go to the home page and click the button of "Start Mirroring".
+2. You will be redirected to another page. Allow access to camera and in a short time you will see your live video. Click on the button "Mirror it".
+3. In a few seconds, the app will give you the answer in form of your name or "Nobody".
+
+<img src="Images\known-face.png" alt="known-face"/>
+
+<img src="Images\stranger.png" alt="stranger"/>
+
+[(Back to top)](#table-of-contents)
+
 # Resources Used
 
-* [Connecting Flask to ReactJS](https://dev.to/nagatodev/how-to-connect-flask-to-reactjs-1k8i))
+* [Connecting Flask to ReactJS](https://dev.to/nagatodev/how-to-connect-flask-to-reactjs-1k8i)
 * [Flask backend](https://www.youtube.com/watch?v=oA8brF3w5XQ)
-* [face-recognition library and OpenCV](https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=0s))
+* [face-recognition library and OpenCV](https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=0s)
 * [ReactJS frontend](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3)
 * [Deploying Code](https://www.youtube.com/watch?v=XHayJTMQdkA)
 
