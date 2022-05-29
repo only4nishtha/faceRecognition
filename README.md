@@ -1,13 +1,13 @@
 <h1 align="center">Mirror- Face Recognition Project by Nishtha Agarwal</h1> 
 <p align="center">
- <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="youtube-icon" width="30px" /><a target="_blank" href="nm">Link to the App</a>
+ <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="youtube-icon" width="30px" /><a target="_blank" href="#">Link to the App</a>
     |
- <a target="_blank" href="https://youtu.be">Video Demo</a>
+ <a target="_blank" href="(https://youtu.be/Mtkn83_NiPs)">Video Demo</a>
 </p>
 
 <!-- Add banner here -->
-![Project Banner](Images\banner.png)
-  <img src="https://uploft_logo.svg/480px-Microsoft_logo.svg.png" alt="banner">
+![Project Banner]
+<img src="Images\banner.png" alt="banner" width="700"/>
 
 Mirror is an attempt to control daily crimes by verifying the identity of people who enter our households. This project was built as a part of the Microsoft Engage Program 2022 where mentees had to build a project on one of the three given challenges while incorporating the agile methodology. I went for the Face Recognition Project and came up with the idea of Mirror web application that'll help <u>Prevent Crimes</u>.
 
@@ -101,9 +101,9 @@ After the required packages are installed, run the following command:
 npm start
 ```
 
-Please note: To run the machine on localhost:3000 you will have to edit the following lines of code: 
+<!-- Please note: To run the machine on localhost:3000 you will have to edit the following lines of code: 
 
-........(TO BE DONE)
+........(TO BE DONE) -->
 
 # Usage of Agile Methodology
 
@@ -117,32 +117,32 @@ I used Trello as my primary application for designing the timeline of my work.
 
 * <b>Using Trello for managing sprints</b>
 
-![Trello Sprint Board](Images\trello.png)
+![Trello Sprint Board]<img src="Images\trello.png" alt="trello borad" width="700"/>
 
 <br>
 I divided my entire development process into <b>4 sprints (each having the duration of 1 week)</b> as shown in the images below. I gave due importance to the bug review and fixing part of the development process as it is crucial to offer whatever features you are offering are offered with utmost perfection. 
 <br>
 
-![Sprint 1](Images\sprint1.png)
+![Sprint 1]<img src="Images\sprint1.png" alt="sprint 1"/>
 
 <br>
 
-![Sprint 2](Images\sprint2.png)
+![Sprint 2]<img src="Images\sprint2.png" alt="sprint 2"/>
 
 <br>
 
-![Sprint 3](Images\sprint3.png)
+![Sprint 3]<img src="Images\sprint3.png" alt="sprint 3"/>
 
 <br>
 
-![Sprint 4](Images\sprint4.png)
+![Sprint 4]<img src="Images\sprint4.png" alt="sprint 4"/>
 
 <br>
 * <b>Adjusting AceHacker Assignments</b>
 To cater to the assignments provided by the AceHacker platform and also undertake the suggestions provided by the mentor, I made a separate card where I put these assignments and made sure I was completing them alongside my ongoing sprints and college's end term exams. 
 <br>
 
-![Assignments](Images\assignments.png)
+![Assignments]<img src="Images\assignments.png" alt="Assignments"/>
 
 
 [(Back to top)](#table-of-contents)
