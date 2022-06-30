@@ -9,7 +9,9 @@
 
 <!-- <img src="Images\banner.png" alt="banner" width="1000"/> -->
 
-Mirror is an attempt to control daily crimes by verifying the identity of people who enter our households. This project was built as a part of the Microsoft Engage Program 2022 where mentees had to build a project on one of the three given challenges while incorporating the agile methodology. I went for the Face Recognition Project and came up with the idea of Mirror web application that'll help <u>Prevent Crimes</u>.
+Mirror is an attempt to control daily crimes by verifying the identity of people who enter our households. 
+<!-- This project was built as a part of the Microsoft Engage Program 2022 where mentees had to build a project on one of the three given challenges while incorporating the agile methodology.  -->
+I went for the Face Recognition Project and came up with the idea of Mirror web application that'll help <u>Prevent Crimes</u>.
 
 <b>Motivation:</b> While the world has crumbled down because of the pandemic and people are suffereing financially, mentally, physically and socially, this app can help lower the amount od thefts and raise alertess among the public.
 
@@ -108,7 +110,8 @@ npm start
 
 <center><img src="Images\agile.png" alt="agile methodology" width="700"/></center>
 
-After attending the AMA session and discussing with my mentor, I understood how modern softwares are developed and how agile methodologies are applied in Microsoft to deliver great products. Now I understood the importance of incorporating Agile Methodology into my project. 
+<!-- After attending the AMA session and discussing with my mentor, I understood how modern softwares are developed and how agile methodologies are applied in Microsoft to deliver great products. Now  -->
+I understood the importance of incorporating Agile Methodology into my project. 
 
 Since wasn't a team project, I had to handle evrything single-handedly. Therefore I divided myself into six different people - one for research, one for design, one for developing the frontend of the web application, one for the backend, one for incorporating the ML model and finally the one for fixing bugs. This division helped me to get into a zone and focus on a particular functionality whenever I was working on the project. 
 
