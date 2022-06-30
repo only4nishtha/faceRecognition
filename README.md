@@ -97,6 +97,8 @@ npm i
 After the required packages are installed, run the following command: 
 
 ```bash
+cd backend
+run flask
 npm start
 ```
 
