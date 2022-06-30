@@ -73,13 +73,13 @@ git init
 Clone this repository.
 
 ```bash
-git clone https://github.com/only4nishtha/faceRecognition-Engage2022
+git clone https://github.com/only4nishtha/faceRecognition
 ``` 
 
 Change the directory. 
 
 ```bash
-cd faceRecognition-Engage2022
+cd faceRecognition
 ```
 
 Open the repository with your code editor. 
